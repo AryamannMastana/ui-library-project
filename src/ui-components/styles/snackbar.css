@@ -17,3 +17,7 @@
 .snackbar.active {
     margin-top: 0;
 }
+
+.snackbar-trigger {
+    border: 1px solid black;
+}
